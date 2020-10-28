@@ -1,2 +1,2 @@
 # test_repository_1
-For testing purposes
+Trying out GitHub for the first time
